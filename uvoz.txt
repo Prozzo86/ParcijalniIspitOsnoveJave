@@ -1,0 +1,7 @@
+Automobil,ZG1234AB,Cadillac,2015,5
+Automobil,DU1234CD,Hummer,2022,3
+Automobil,NG323AZ,Volvo,2005,5
+Motocikl,RI5678CD,Suzuki,2020,Sportski
+Motocikl,SB5678AB,Cagiva,1998,Chopper
+Motocikl,VU2323AB,Kawasaki,2007,Enduro
+Motocikl,test,test,1111,test

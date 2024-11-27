@@ -1,0 +1,42 @@
+Zadatak: Razvoj sustava za evidenciju vozila
+Pretpostavimo da razvijate sustav za evidenciju različitih vrsta vozila. Potrebno je implementirati
+sljedeće klase:
+
+Vozilo:
+• Svako vozilo ima svoj registarski broj, marku i godinu proizvodnje.
+• Implementirajte metode ucitajPodatke() za postavljanje i dohvaćanje podataka o vozilu.
+• Implementirajte metodu prikaziPodatke() koja ispisuje informacije o vozilu.
+
+Automobil:
+Nasljeđuje klasu Vozilo.
+• Dodatno ima svojstvo brojVrata.
+• Implementirajte metode za postavljanje i dohvaćanje podataka o broju vrata.
+• Povežite metodu prikaziPodatke() s nadređenom metodom, tako da ispisuje i informacije o
+broju vrata.
+
+Motocikl:
+• Nasljeđuje klasu Vozilo.
+• Dodatno ima svojstvo tipMotora.
+• Implementirajte metode za postavljanje i dohvaćanje podataka o tipu motora.
+• Povežite metodu prikaziPodatke() s nadređenom metodom, tako da ispisuje i informacije o
+tipu motora.
+
+EvidencijaVozila:
+• Sadrži listu vozila i omogućava dodavanje novih vozila.
+• Implementirajte metodu spremiPodatkeUDatoteku(String datoteka) koja sprema podatke
+o vozilima u tekstualnu datoteku.
+• Implementirajte metodu ucitajPodatkeIzDatoteke(String datoteka) koja učitava
+podatke o vozilima iz tekstualne datoteke.
+
+Definirajte vlastitu iznimku NeispravniPodaciException koja se baca kada se pokušava kreirati
+vozilo s neispravnim podacima (npr. negativna godina proizvodnje, negativan broj vrata itd.).
+Povežite iznimku s odgovarajućim dijelovima koda u klasama Vozilo, Automobil i Motocikl.
+
+Napomene:
+Koristite koncepte nasljeđivanja i polimorfizma gdje god je to prikladno.
+Implementirajte odgovarajuće konstruktore i metode za postavljanje podataka.
+Pri testiranju, stvorite nekoliko vozila (automobila i motocikala), dodajte ih u EvidencijuVozila, spremite
+podatke u datoteku, a zatim ih ponovno učitajte iz datoteke.
+Obratite pažnju na obradu iznimki kako biste osigurali ispravno funkcioniranje programa, čak i u
+slučaju neispravnih podataka.
+Projekt držite na svojem GIT repozitoriju.

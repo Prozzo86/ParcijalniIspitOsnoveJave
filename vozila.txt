@@ -1,0 +1,13 @@
+Automobil ima registraciju: ZG1234AB, marka auta je: Toyota, godina proizvodnje: 2015, a broj vrata:5
+Automobil ima registraciju: DU1234CD, marka auta je: Honda, godina proizvodnje: 2022, a broj vrata:3
+Automobil ima registraciju: NG323AZ, marka auta je: Škoda, godina proizvodnje: 2005, a broj vrata:5
+Motocikl ima registraciju: RI5678CD, marka motocikla je: Yamaha, godina proizvodnje: 2020, a tip motocikla je: Sportski
+Motocikl ima registraciju: SB5678AB, marka motocikla je: Harley Davidson, godina proizvodnje: 1998, a tip motocikla je: Chopper
+Motocikl ima registraciju: VU2323AB, marka motocikla je: KTM, godina proizvodnje: 2007, a tip motocikla je: Enduro
+Automobil ima registraciju: ZG1234AB, marka auta je: Cadillac, godina proizvodnje: 2015, a broj vrata:5
+Automobil ima registraciju: DU1234CD, marka auta je: Hummer, godina proizvodnje: 2022, a broj vrata:3
+Automobil ima registraciju: NG323AZ, marka auta je: Volvo, godina proizvodnje: 2005, a broj vrata:5
+Motocikl ima registraciju: RI5678CD, marka motocikla je: Suzuki, godina proizvodnje: 2020, a tip motocikla je: Sportski
+Motocikl ima registraciju: SB5678AB, marka motocikla je: Cagiva, godina proizvodnje: 1998, a tip motocikla je: Chopper
+Motocikl ima registraciju: VU2323AB, marka motocikla je: Kawasaki, godina proizvodnje: 2007, a tip motocikla je: Enduro
+Motocikl ima registraciju: test, marka motocikla je: test, godina proizvodnje: 1111, a tip motocikla je: test
